@@ -2,12 +2,11 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={mira_miracle})](https://solved.ac/{mira_miracle})
 
 **⚙️RULE**
 
 ⭐️우선, 22.06.18 ~ 22.09.01
+
 ⭐️매일 문제 못 풀면 각각 1000원씩 내기
 |요일|내용|
 |---|---|
@@ -16,6 +15,8 @@
 |토요일|백준 2문제 or 프로그래머스 1|
 
 **📝알고리즘 계획📝**
+
+🫶🏻[벨로그(알고리즘 기록)] (https://velog.io/)🫶🏻
 
 |주차|날짜|내용|
 |---|---|---|
