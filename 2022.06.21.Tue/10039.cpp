@@ -1,3 +1,5 @@
+//10039번: 평균 점수
+
 #include <iostream>
 #include <vector>
 using namespace std;
