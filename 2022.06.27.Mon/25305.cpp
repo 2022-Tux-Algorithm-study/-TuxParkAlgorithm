@@ -1,3 +1,5 @@
+//벡터 사용
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
