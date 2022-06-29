@@ -1,4 +1,4 @@
-//선택 정렬
+//선택 정렬2
 
 #include <iostream>
 using namespace std;
