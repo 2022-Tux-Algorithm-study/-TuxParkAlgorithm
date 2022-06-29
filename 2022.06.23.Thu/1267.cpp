@@ -1,3 +1,4 @@
+//1267번: 핸드폰 요금
 #include <iostream>
 #include <vector>
 #include <numeric>
