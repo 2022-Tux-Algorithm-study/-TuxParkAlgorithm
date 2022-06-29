@@ -1,3 +1,5 @@
+//2443번: 별찍기6
+
 #include <iostream>
 using namespace std;
 
